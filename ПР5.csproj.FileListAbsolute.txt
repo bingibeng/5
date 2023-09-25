@@ -1,0 +1,8 @@
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_5\ПР5\bin\Debug\ПР5.exe.config
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_5\ПР5\bin\Debug\ПР5.exe
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_5\ПР5\bin\Debug\ПР5.pdb
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_5\ПР5\obj\Debug\ПР5.csproj.AssemblyReference.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_5\ПР5\obj\Debug\ПР5.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_5\ПР5\obj\Debug\ПР5.csproj.CoreCompileInputs.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_5\ПР5\obj\Debug\ПР5.exe
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_5\ПР5\obj\Debug\ПР5.pdb
